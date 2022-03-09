@@ -1,0 +1,18 @@
+Feb 23, 2022 10:27:37 AM eccezioni.Logging lancioEccezione
+SEVERE: eccezione lanciato da lancioEccezione
+java.io.IOException
+	at eccezioni.Logging.lancioEccezione(Logging.java:19)
+	at eccezioni.Logging.main(Logging.java:14)
+
+Feb 23, 2022 10:28:05 AM eccezioni.Logging lancioEccezione
+SEVERE: eccezione lanciato da lancioEccezione
+java.io.IOException
+	at eccezioni.Logging.lancioEccezione(Logging.java:19)
+	at eccezioni.Logging.main(Logging.java:14)
+
+Feb 23, 2022 10:32:10 AM eccezioni.Logging divisione
+SEVERE: eccezione lanciata da divisione
+java.lang.ArithmeticException: / by zero
+	at eccezioni.Logging.divisione(Logging.java:32)
+	at eccezioni.Logging.main(Logging.java:15)
+
