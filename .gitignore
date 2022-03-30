@@ -1,2 +1,8 @@
 *.rar
 telegrambot/
+/JavaComunicazione/nbproject/private/
+/JavaComunicazione/build/
+/MioTimer/nbproject/private/
+/MioTimer/build/
+/ProgettoCompleto/nbproject/private/
+/MioTimer/dist/
